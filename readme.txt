@@ -1,0 +1,2 @@
+使用方法：导入AttributeString头文件，想要设置文本颜色直接使用colorStyle方法，
+想要设置字体大小直接使用fontStyle方法。
